@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Libs\ChaoticCircuits.LibPkg
+[Project2]
+ProjectPath=ChaoticCircuits\ChaoticCircuits.PrjPcb
