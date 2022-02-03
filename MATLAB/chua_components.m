@@ -63,3 +63,4 @@ Rpot = target_R;
 
 Rs = Rmin
 Rp = (Rmax-Rs)*R / (R-Rmax+Rs)
+
